@@ -1,1 +1,1 @@
-old personal page url redirects to https://alec.space
+The personal website of Alexander Jacobs
